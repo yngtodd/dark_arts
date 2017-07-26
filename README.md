@@ -9,3 +9,12 @@ NIPS 2017: Defense Against Adversarial Attack
 “Yes,” said Harry firmly.
 “Then why,” asked Snape, “does it have the name ‘Roonil Wazlib’ written inside the front cover?”
 Harry’s heart missed a beat. “That’s my nickname,” he said.” ― J.K. Rowling, Harry Potter and the Half-Blood Prince
+
+### About 
+This repository houses work for the Kaggle NIPS 2017 Adversarial Attack competition. The competition consists of three tasks: 
+
+* Non-targeted Adversarial Attacks: The goal of the non-targeted attack is to slightly modify source image in a way that image will be classified incorrectly by generally unknown machine learning classifier.
+
+* Targeted Adversarial Attacks: The goal of the targeted attack is to slightly modify source image in a way that image will be classified as specified target class by generally unknown machine learning classifier.
+
+* Defense Against Adversarial Attack: The goal of the defense is to build machine learning classifier which is robust to adversarial example, i.e. can classify adversarial images correctly.
