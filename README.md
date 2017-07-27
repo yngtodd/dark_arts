@@ -1,5 +1,5 @@
 ## Advanced Potion Making 
-NIPS 2017: Defense Against Adversarial Attack
+NIPS 2017: Defense Against ~~Adversarial Attacks~~ the Dark Arts
  
 > “This is your copy of Advanced Potion-Making, is it, Potter?”
 “Yes,” said Harry, still breathing hard.
